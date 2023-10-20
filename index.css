@@ -1,0 +1,29 @@
+    .section-header {
+        text-align:center;
+    }
+.home {
+    display:inline;
+}
+
+.work {
+    display:inline;
+}
+.phone {
+    display:inline
+}
+.mail {
+    display:inline;
+}
+
+#icon {
+    float:left;
+}
+
+#sable {
+    float:left;
+    width:25%;
+    margin: 10px 10px;
+)
+
+
+
